@@ -1,0 +1,981 @@
+﻿1
+00:00:12,070 --> 00:00:13,530
+Yui, o que foi?
+
+2
+00:00:15,110 --> 00:00:18,240
+Bom, é só uma hipótese...
+
+3
+00:00:20,450 --> 00:00:26,500
+mas, de certo modo, ALfheim Online é totalmente diferente
+
+4
+00:00:26,500 --> 00:00:29,000
+de outros VRMMO baseados no Projeto Seed.
+
+5
+00:00:29,630 --> 00:00:35,300
+O Sistema Cardinal que opera o jogo não é uma versão inferior.
+
+6
+00:00:35,300 --> 00:00:38,100
+É uma cópia da versão integral do sistema
+
+7
+00:00:38,100 --> 00:00:40,930
+usado no antigo Sword Art Online.
+
+8
+00:00:41,310 --> 00:00:42,600
+Versão integral?
+
+9
+00:00:43,480 --> 00:00:47,980
+O Sistema Cardinal original tinha um sistema que gerava missões automaticamente.
+
+10
+00:00:48,520 --> 00:00:53,360
+Pela rede, ele reunía informações 
+sobre tradições e lendas do mundo,
+
+11
+00:00:53,360 --> 00:00:57,530
+e usava ou rearranjava os termos dos padrões das histórias
+
+12
+00:00:57,530 --> 00:01:00,330
+para gerar uma quantidade infinita de missões.
+
+13
+00:01:01,160 --> 00:01:05,330
+Então, esta missão foi gerada
+ automaticamente pelo Sistema Cardinal?
+
+14
+00:01:05,830 --> 00:01:10,300
+Pelo jeito que o NPC
+ estava agindo, é provável.
+
+15
+00:01:10,960 --> 00:01:13,970
+O que significa que dependendo 
+de como a história se desenvolva,
+
+16
+00:01:13,970 --> 00:01:16,760
+poderia acabar do modo que a história do mito termina.
+
+17
+00:01:17,970 --> 00:01:20,720
+De acordo com os dados
+ dos meus arquivos,
+
+18
+00:01:20,720 --> 00:01:25,890
+esta missão e o próprio ALO são baseados na mitologia Nórdica,
+
+19
+00:01:25,890 --> 00:01:28,770
+a qual culmina na
+ chamada "Guerra Final."
+
+20
+00:01:30,020 --> 00:01:35,240
+Não apenas os gigantes de gelo invadem vindos de Niflheim e Jotunheimr,
+
+21
+00:01:35,740 --> 00:01:40,490
+mas os gigantes do fogo, de níveis mais 
+abaixo, vindos de Muspelheim, aparecerão,
+
+22
+00:01:40,490 --> 00:01:46,250
+e queimarão a Árvore do Mundo inteira...
+
+23
+00:01:46,870 --> 00:01:49,500
+Ragnarok, o Crepúsculo dos Deuses.
+
+24
+00:01:50,250 --> 00:01:51,340
+Não pode ser...
+
+25
+00:01:51,340 --> 00:01:56,760
+Não há como um sistema de jogo destruir seu mapa inteiro.
+
+26
+00:01:58,510 --> 00:02:01,140
+Um Sistema Cardinal original
+
+27
+00:02:01,140 --> 00:02:04,720
+tem o nível de acesso 
+necessário para destruir tudo.
+
+28
+00:02:05,310 --> 00:02:09,230
+Porque a última instrução
+ do sistema original
+
+29
+00:02:09,230 --> 00:02:13,270
+era destruir o castelo voador, Aincrad.
+
+30
+00:02:14,650 --> 00:02:15,940
+Não pode ser...
+
+31
+00:02:17,740 --> 00:02:19,570
+Minha loja...
+
+32
+00:02:21,530 --> 00:02:24,660
+Eu ainda nem encontrei 
+minha pessoa destinada.
+
+33
+00:02:25,120 --> 00:02:29,000
+Mesmo que o Ragnarok aconteça,
+não seria possível
+
+34
+00:02:29,000 --> 00:02:32,420
+restaurar o sistema para um estado anterior por meio de um backup?
+
+35
+00:02:33,670 --> 00:02:37,510
+Se usarem os sistemas de backup automáticos do Sistema Cardinal,
+
+36
+00:02:37,510 --> 00:02:41,800
+eles só conseguiriam recuperar os dados dos jogadores, não dos mapas.
+
+37
+00:02:44,640 --> 00:02:45,850
+Já sei!
+
+38
+00:02:48,850 --> 00:02:50,350
+Não dá...
+
+39
+00:02:50,350 --> 00:02:51,810
+O que você tentou fazer?
+
+40
+00:02:52,360 --> 00:02:57,400
+Eu ia chamar o GM e ver
+ se eles sabiam disso.
+
+41
+00:02:58,110 --> 00:03:00,530
+Mas está fora do horário do suporte.
+
+42
+00:03:01,360 --> 00:03:04,410
+Bom, é domingo de 
+manhã, e quase ano novo.
+
+43
+00:03:04,410 --> 00:03:05,620
+Onii-chan...
+
+44
+00:03:06,410 --> 00:03:07,620
+Não temos muito tempo.
+
+45
+00:03:08,660 --> 00:03:09,580
+Certo.
+
+46
+00:03:10,790 --> 00:03:12,540
+Vamos nos apressar e ir para o último nível.
+
+47
+00:03:12,920 --> 00:03:14,090
+Vamos!
+
+48
+00:05:08,950 --> 00:05:09,870
+Droga.
+
+49
+00:05:19,500 --> 00:05:20,840
+Isso não é nada bom, Onii-chan!
+
+50
+00:05:21,300 --> 00:05:24,220
+A resistência física daquele
+ amarelo é alta demais!
+
+51
+00:05:24,220 --> 00:05:24,970
+Eu sei.
+
+52
+00:05:24,970 --> 00:05:26,300
+Droga.
+
+53
+00:05:26,300 --> 00:05:29,220
+Se a gente tivesse um mago no nosso grupo que pudesse usar magias de ataque...
+
+54
+00:05:30,640 --> 00:05:32,430
+Olha quem está falando isso.
+
+55
+00:05:32,970 --> 00:05:37,600
+Mesmo assim, isso faria aquele preto, com resistência mágica, nos atacar primeiro.
+
+56
+00:05:38,020 --> 00:05:39,860
+É bem difícil lidar com isso.
+
+57
+00:05:42,940 --> 00:05:44,940
+Ataque de ondas elétricas
+ em dois segundos!
+
+58
+00:05:45,400 --> 00:05:46,200
+Um!
+
+59
+00:05:46,200 --> 00:05:46,900
+Zero!
+
+60
+00:06:01,750 --> 00:06:06,630
+Su Filah Heiragul Austl Blot Suparl Bani.
+
+61
+00:06:12,930 --> 00:06:13,810
+Kirito-kun!
+
+62
+00:06:14,520 --> 00:06:17,520
+Desse jeito, vou ficar sem
+ MP em 150 segundos!
+
+63
+00:06:17,980 --> 00:06:18,900
+Certo...
+
+64
+00:06:18,900 --> 00:06:19,900
+Onii-chan,
+
+65
+00:06:20,690 --> 00:06:24,480
+o medalhão já passou de 70%.
+
+66
+00:06:24,480 --> 00:06:26,490
+Se morrermos, não teremos tempo de voltar.
+
+67
+00:06:26,900 --> 00:06:29,030
+C-Certo...
+
+68
+00:06:30,070 --> 00:06:31,320
+Pessoal,
+
+69
+00:06:31,320 --> 00:06:33,740
+só existe uma coisa que podemos fazer!
+
+70
+00:06:34,040 --> 00:06:37,410
+Vocês ficarão vulneráveis a ataques, mas se usarem uma magia com espadas,
+
+71
+00:06:37,410 --> 00:06:39,960
+talvez possamos machucá-lo!
+
+72
+00:06:42,080 --> 00:06:43,790
+Temos que usar essa chance,
+
+73
+00:06:43,790 --> 00:06:46,800
+e concentrar todas nossas habilidades com espadas no amarelo, para derrotá-lo!
+
+74
+00:06:47,050 --> 00:06:50,300
+Certo! 
+Estava esperando você dizer isso, Kirito!
+
+75
+00:06:57,520 --> 00:06:59,770
+Silica, use suas bolhas 
+na contagem regressiva.
+
+76
+00:06:59,770 --> 00:07:00,390
+Certo!
+
+77
+00:07:01,690 --> 00:07:04,190
+Dois... um... Agora!
+
+78
+00:07:04,480 --> 00:07:06,030
+Pina, Baforada de Bolhas!
+
+79
+00:07:14,620 --> 00:07:15,450
+Vamos!
+
+80
+00:08:00,000 --> 00:08:00,790
+Kirito!
+
+81
+00:08:02,420 --> 00:08:03,580
+Estou congelado.
+
+82
+00:08:07,130 --> 00:08:08,170
+Aqui.
+
+83
+00:09:57,820 --> 00:09:59,780
+O que foi?
+
+84
+00:10:00,200 --> 00:10:02,450
+Prepare-se para ser derrotado.
+
+85
+00:10:15,090 --> 00:10:16,760
+Conseguimos!
+
+86
+00:10:18,510 --> 00:10:21,470
+Mas o que foi aquilo?
+
+87
+00:10:21,470 --> 00:10:22,930
+Preciso dizer mesmo?
+
+88
+00:10:22,930 --> 00:10:24,310
+Claro!
+
+89
+00:10:24,310 --> 00:10:26,180
+Nunca vi aquilo antes.
+
+90
+00:10:26,560 --> 00:10:30,310
+É uma habilidade fora do sistema, Conexão de Habilidade.
+
+91
+00:10:30,310 --> 00:10:31,940
+Conexão de Habilidade?
+
+92
+00:10:32,270 --> 00:10:37,030
+Lembra que a última atualização trouxe as habilidades com espada para ALO?
+
+93
+00:10:37,740 --> 00:10:42,870
+Mas as habilidades únicas, como usar duas armas ou espada sagrada não vieram.
+
+94
+00:10:43,700 --> 00:10:46,870
+Mas você acabou de usar as duas mãos.
+
+95
+00:10:46,870 --> 00:10:49,170
+Não usei a habilidade com duas mãos.
+
+96
+00:10:50,370 --> 00:10:54,460
+Eu usei uma habilidade de espadas de uma mão junto com uma outra.
+
+97
+00:10:54,800 --> 00:10:58,970
+Se tiver sorte, só conseguimos fazer isso sem nenhum tipo de atraso três ou quatro vezes.
+
+98
+00:11:02,180 --> 00:11:05,560
+Acabei de ter um incrível senso de déjà vu.
+
+99
+00:11:06,560 --> 00:11:09,480
+Mas o que foi aquilo?
+
+100
+00:11:10,810 --> 00:11:12,480
+Preciso dizer mesmo?
+
+101
+00:11:13,230 --> 00:11:14,360
+Claro!
+
+102
+00:11:14,360 --> 00:11:16,190
+Nunca vi aquilo antes.
+
+103
+00:11:18,110 --> 00:11:19,780
+Uma habilidade extra.
+
+104
+00:11:20,530 --> 00:11:21,780
+Permite usar duas armas ao mesmo tempo.
+
+105
+00:11:24,910 --> 00:11:26,240
+É sua imaginação.
+
+106
+00:11:26,740 --> 00:11:29,500
+Bom, não temos tempo a perder.
+
+107
+00:11:29,870 --> 00:11:32,330
+Leafa, quanto tempo ainda temos?
+
+108
+00:11:34,040 --> 00:11:37,630
+Desse jeito, cerca de uma hora.
+
+109
+00:11:37,630 --> 00:11:38,710
+Entendo.
+
+110
+00:11:39,420 --> 00:11:43,180
+Yui, este calabouço tem um 
+total de quatro andares, não é?
+
+111
+00:11:43,180 --> 00:11:44,010
+Sim.
+
+112
+00:11:44,510 --> 00:11:47,810
+O terceiro andar é apenas 70% o tamanho do segundo.
+
+113
+00:11:47,810 --> 00:11:50,560
+E o quarto, é basicamente
+ a sala do chefe.
+
+114
+00:11:51,020 --> 00:11:54,230
+Se levarmos 30 minutos para derrotar o último chefe,
+
+115
+00:11:54,650 --> 00:11:57,690
+precisamos chegar 
+até ele em 30 minutos.
+
+116
+00:11:57,690 --> 00:11:59,070
+Bom, então eu acho...
+
+117
+00:11:59,070 --> 00:12:04,450
+Que nossa única chance é encontrar o Rei dos Gigantes e acabar com ele!
+
+118
+00:12:09,950 --> 00:12:13,290
+Certo, assim que o HP 
+e MP de todos voltarem,
+
+119
+00:12:13,290 --> 00:12:15,500
+vamos limpar o terceiro andar!
+
+120
+00:12:15,920 --> 00:12:17,090
+Vamos!
+
+121
+00:13:03,010 --> 00:13:05,300
+Agora só falta o último chefe!
+
+122
+00:13:28,160 --> 00:13:32,660
+Por favor, me tirem daqui.
+
+123
+00:13:36,580 --> 00:13:37,500
+É uma armadilha.
+
+124
+00:13:37,500 --> 00:13:38,500
+Armadilha.
+
+125
+00:13:38,500 --> 00:13:39,330
+Com certeza uma armadilha.
+
+126
+00:13:40,340 --> 00:13:43,300
+É-É mesmo, uma armadilha, não é?
+
+127
+00:13:43,760 --> 00:13:45,300
+Talvez...
+
+128
+00:13:45,920 --> 00:13:46,840
+E então, Yui?
+
+129
+00:13:47,260 --> 00:13:48,680
+É um NPC.
+
+130
+00:13:48,680 --> 00:13:52,970
+Ela está conectada ao módulo de
+ linguagem, assim como a Urd-san.
+
+131
+00:13:53,640 --> 00:13:56,440
+Mas tem uma diferença.
+
+132
+00:13:56,440 --> 00:13:59,100
+Ela tem uma barra de HP.
+
+133
+00:13:59,100 --> 00:14:04,190
+Se ela tem HP, significa que talvez tenhamos que lutar contra ela.
+
+134
+00:14:04,190 --> 00:14:05,190
+É uma armadilha.
+
+135
+00:14:05,190 --> 00:14:06,240
+Armadilha, não é?
+
+136
+00:14:06,240 --> 00:14:07,320
+Acho que é uma armadilha.
+
+137
+00:14:08,200 --> 00:14:10,820
+Claro, talvez possa não ser,
+
+138
+00:14:10,820 --> 00:14:13,120
+mas não temos tempo a perder.
+
+139
+00:14:13,580 --> 00:14:17,000
+Precisamos chegar até Thrym o mais rápido possível.
+
+140
+00:14:17,330 --> 00:14:18,710
+S-Sei...
+
+141
+00:14:19,670 --> 00:14:21,210
+Tem razão.
+
+142
+00:14:23,920 --> 00:14:26,300
+Por favor... Alguém...
+
+143
+00:14:26,630 --> 00:14:27,800
+Por favor!
+
+144
+00:14:33,350 --> 00:14:34,560
+É uma armadilha.
+
+145
+00:14:35,350 --> 00:14:37,020
+Eu sei.
+
+146
+00:14:37,980 --> 00:14:39,900
+Mas mesmo que seja uma armadilha...
+
+147
+00:14:40,400 --> 00:14:42,400
+Mesmo sabendo disso...
+
+148
+00:14:43,150 --> 00:14:48,110
+Mesmo que seja uma armadilha, não posso deixá-la aqui!
+
+149
+00:14:48,400 --> 00:14:51,530
+Mesmo que... Mesmo que essa missão falhe por causa disso,
+
+150
+00:14:51,530 --> 00:14:53,700
+e Arun seja destruída,
+
+151
+00:14:53,700 --> 00:14:56,660
+salvá-la é algo que eu preciso fazer!
+
+152
+00:14:57,370 --> 00:14:59,870
+É meu caminho do guerreiro!
+
+153
+00:15:01,540 --> 00:15:03,750
+Estou indo salvá-la!
+
+154
+00:15:11,340 --> 00:15:14,180
+Obrigada, Guerreiro Fada-sama.
+
+155
+00:15:16,970 --> 00:15:18,100
+Consegue levantar?
+
+156
+00:15:18,560 --> 00:15:19,980
+Está machucada?
+
+157
+00:15:23,520 --> 00:15:26,070
+Consigo, eu estou bem.
+
+158
+00:15:29,860 --> 00:15:31,910
+A saída fica um pouco distante.
+
+159
+00:15:32,240 --> 00:15:34,160
+Mas consegue chegar até lá sozinha?
+
+160
+00:15:36,700 --> 00:15:40,870
+Eu não posso simplesmente sair do castelo.
+
+161
+00:15:41,460 --> 00:15:43,880
+Não até recuperar o
+ tesouro da minha família,
+
+162
+00:15:43,880 --> 00:15:46,340
+que Thrym, o Rei dos Gigantes, roubou.
+
+163
+00:15:46,630 --> 00:15:51,380
+Por favor, leve-me até onde Thrym está.
+
+164
+00:15:54,640 --> 00:15:57,140
+É meio suspeito, não é?
+
+165
+00:15:57,140 --> 00:15:57,890
+É mesmo.
+
+166
+00:15:57,890 --> 00:16:00,350
+Ei, Kirito...
+
+167
+00:16:02,810 --> 00:16:05,860
+Ah, tudo bem.
+
+168
+00:16:06,400 --> 00:16:08,980
+Só precisamos seguir 
+este caminho até o fim.
+
+169
+00:16:09,480 --> 00:16:12,240
+E não temos certeza de 
+que é uma armadilha.
+
+170
+00:16:16,280 --> 00:16:17,330
+Certo!
+
+171
+00:16:17,330 --> 00:16:18,990
+Nós vamos ajudá-la!
+
+172
+00:16:18,990 --> 00:16:21,580
+O destino nos uniu, portanto, estamos junto nesta jornada.
+
+173
+00:16:21,580 --> 00:16:23,750
+Vamos derrotar o idiota do Thrym juntos!
+
+174
+00:16:24,120 --> 00:16:26,420
+Obrigada, Guerreiro-sama!
+
+175
+00:16:31,380 --> 00:16:33,930
+Não dê ideias estranhas para a Yui.
+
+176
+00:16:38,390 --> 00:16:39,010
+Meu nome é Klein.
+
+177
+00:16:39,010 --> 00:16:40,020
+Freyja...
+Meu nome é Klein.
+
+178
+00:16:40,020 --> 00:16:41,390
+Que nome lindo.
+
+179
+00:16:41,560 --> 00:16:43,980
+O MP dela é bem alto.
+
+180
+00:16:43,980 --> 00:16:45,400
+Será que ela é uma maga?
+
+181
+00:16:49,980 --> 00:16:52,070
+Pelo modo que o calabouço foi feito,
+
+182
+00:16:52,070 --> 00:16:55,450
+quando descermos aquelas escadas, estaremos na sala do último chefe.
+
+183
+00:16:55,950 --> 00:16:58,740
+Ele provavelmente será mais difícil que os anteriores,
+
+184
+00:16:58,740 --> 00:17:01,750
+mas teremos que deixar de lado a brincadeira e acertá-lo o mais forte que podemos.
+
+185
+00:17:02,620 --> 00:17:06,290
+Na primeira parte, quero defender até aprendermos seus padrões de ataque.
+
+186
+00:17:06,290 --> 00:17:08,250
+Vou avisar a hora de contra-atacar.
+
+187
+00:17:09,090 --> 00:17:12,510
+Quando a barra de HP dele ficar amarela, e depois vermelha,
+
+188
+00:17:12,510 --> 00:17:14,840
+os padrões de ataque
+ mudarão, tomem cuidado.
+
+189
+00:17:15,970 --> 00:17:19,010
+Essa será a última batalha.
+Vamos dar o nosso melhor!
+
+190
+00:17:19,180 --> 00:17:20,430
+Vamos!
+
+191
+00:17:44,200 --> 00:17:48,380
+Sea Phila Skina Hagl. Hoggu Margel Ilt!
+
+192
+00:17:52,880 --> 00:17:57,550
+Ord Naza Fyol Legin Tinaga Vilindol Yottsun.
+
+193
+00:18:02,260 --> 00:18:05,930
+É a primeira vez que vejo uma magia que aumenta nosso HP máximo!
+
+194
+00:18:27,750 --> 00:18:30,460
+Quantos Yuld vocês acham
+ que tudo isso vale?
+
+195
+00:18:35,630 --> 00:18:38,130
+Estou escutando moscas.
+
+196
+00:18:41,600 --> 00:18:45,640
+Consigo ouvir o zumbido irritante delas.
+
+197
+00:18:47,180 --> 00:18:48,600
+Vamos ver.
+
+198
+00:18:52,270 --> 00:18:55,070
+Vou acabar com vocês
+
+199
+00:18:55,780 --> 00:18:59,860
+antes que causem problemas.
+
+200
+00:19:28,020 --> 00:19:34,820
+Então a Urd enviou moscas de ALfheim até aqui embaixo?
+
+201
+00:19:35,020 --> 00:19:37,940
+Farei uma oferta a vocês.
+
+202
+00:19:37,940 --> 00:19:40,450
+Me digam onde ela está,
+
+203
+00:19:40,450 --> 00:19:44,830
+e vocês poderão levar tanto ouro quanto conseguirem carregar.
+
+204
+00:19:46,080 --> 00:19:48,540
+Um samurai não come. 
+Ele apenas sorri!
+
+205
+00:19:49,040 --> 00:19:53,500
+Não aceitarei uma oferta dessas!
+
+206
+00:20:01,260 --> 00:20:06,350
+Ah, se não é a Freyja-dono.
+
+207
+00:20:06,350 --> 00:20:08,850
+Se você saiu de sua cela,
+
+208
+00:20:08,850 --> 00:20:12,730
+significa que decidiu se tornar minha esposa?
+
+209
+00:20:13,810 --> 00:20:15,730
+Esposa?!
+
+210
+00:20:15,860 --> 00:20:16,940
+Isso mesmo.
+
+211
+00:20:17,520 --> 00:20:21,950
+Ela veio para se casar comigo.
+
+212
+00:20:21,950 --> 00:20:28,450
+Mas na noite da véspera do banquete ela foi pega bisbilhotando nos cofres do tesouro.
+
+213
+00:20:28,450 --> 00:20:32,370
+Para puní-la, eu a tranquei 
+naquela cela de gelo.
+
+214
+00:20:34,830 --> 00:20:36,380
+Ei, Onii-chan...
+
+215
+00:20:36,380 --> 00:20:38,880
+Acho que eu li sobre isso em um livro.
+
+216
+00:20:38,880 --> 00:20:40,590
+Thrym e Freyja,
+
+217
+00:20:40,590 --> 00:20:42,420
+um tesouro roubado...
+
+218
+00:20:42,420 --> 00:20:44,970
+Era... se me lembro bem...
+
+219
+00:20:45,180 --> 00:20:47,260
+Eu me recuso a ser sua esposa!
+
+220
+00:20:47,550 --> 00:20:51,270
+Esses guerreiros haverão de derrotá-lo,
+
+221
+00:20:51,270 --> 00:20:53,440
+e recuperar o que me foi roubado!
+
+222
+00:20:54,690 --> 00:20:56,860
+Palavras corajosas.
+
+223
+00:20:56,860 --> 00:20:59,610
+Podemos ver por que 
+as lendas da beleza e coragem
+
+224
+00:20:59,610 --> 00:21:02,820
+da Freyja-dono são conhecidas nos confins do mundo.
+
+225
+00:21:02,820 --> 00:21:04,950
+Mas quanto mais nobre a flor,
+
+226
+00:21:04,950 --> 00:21:07,950
+mais divertido é arrancá-la.
+
+227
+00:21:08,330 --> 00:21:10,790
+Depois que eu destruir essas moscas,
+
+228
+00:21:11,080 --> 00:21:14,040
+darei a você toda a atenção que merece.
+
+229
+00:21:22,670 --> 00:21:23,880
+Maldito!
+
+230
+00:21:23,880 --> 00:21:25,470
+Não vou permitir!
+
+231
+00:21:25,470 --> 00:21:28,930
+Não permitirei que você encoste um dedo na Freyja-san!
+
+232
+00:21:31,970 --> 00:21:34,980
+Escuto o som de asas batendo.
+
+233
+00:21:34,980 --> 00:21:40,150
+Para celebrar a conquista de Jotunheimr,
+
+234
+00:21:40,150 --> 00:21:43,280
+começarei destruindo vocês.
+
+235
+00:21:50,580 --> 00:21:51,700
+Lá vem ele!
+
+236
+00:21:51,700 --> 00:21:53,580
+Ouçam atentamente o que a Yui diz,
+
+237
+00:21:53,580 --> 00:21:55,040
+e comecem a luta esquivando!
+

@@ -1,0 +1,1298 @@
+﻿1
+00:00:03,440 --> 00:00:04,600
+Como eu disse,
+
+2
+00:00:04,600 --> 00:00:06,860
+o gyro é sensível demais para usar assim.
+
+3
+00:00:07,270 --> 00:00:09,780
+Se quiser priorizar o visual,
+
+4
+00:00:09,780 --> 00:00:12,820
+precisa diminuir um pouco este parâmetro.
+
+5
+00:00:12,820 --> 00:00:16,740
+Mas se eu fizer isso, não vai aumentar o <i>lag</i> durante movimentos bruscos?
+
+6
+00:00:16,740 --> 00:00:21,540
+Você só pode esperar que o programa de aprendizado no otimizador consiga acompanhar, Kazu.
+
+7
+00:00:22,250 --> 00:00:23,920
+Ainda não?
+
+8
+00:00:23,920 --> 00:00:25,670
+O almoço está quase acabando.
+
+9
+00:00:25,920 --> 00:00:29,050
+Acho que para a configuração
+ padrão, está bom.
+
+10
+00:00:29,710 --> 00:00:32,130
+Bom, Yuuki-san, consegue me ouvir?
+
+11
+00:00:32,380 --> 00:00:34,590
+Sim, consigo sim.
+
+12
+00:00:34,590 --> 00:00:38,560
+Certo, eu vou iniciar as lentes.
+
+13
+00:00:38,560 --> 00:00:41,680
+Quando sua visão ficar
+ boa, diga alguma coisa.
+
+14
+00:00:41,680 --> 00:00:43,020
+Certo, pode deixar.
+
+15
+00:00:46,100 --> 00:00:47,150
+Assim!
+
+16
+00:00:47,150 --> 00:00:49,070
+Pronto, com isso terminamos.
+
+17
+00:00:49,610 --> 00:00:55,110
+Asuna, eu instalei estabilizadores, mas tente não fazer movimentos bruscos.
+
+18
+00:00:55,740 --> 00:00:56,700
+Certo!
+
+19
+00:02:32,710 --> 00:02:34,750
+Que pátio enorme!
+
+20
+00:02:34,750 --> 00:02:36,210
+Desculpe, Yuuki...
+
+21
+00:02:36,210 --> 00:02:41,050
+Eu queria mostrar a escola para você, mas o almoço está quase acabando.
+
+22
+00:02:41,050 --> 00:02:41,970
+Tudo bem.
+
+23
+00:02:41,970 --> 00:02:44,560
+Mal posso esperar para assistir a aula.
+
+24
+00:02:44,560 --> 00:02:48,810
+Certo, então vamos cumprimeitar nosso próximo professor!
+
+25
+00:02:51,480 --> 00:02:52,270
+O que foi?
+
+26
+00:02:52,560 --> 00:02:57,320
+Eu nunca gostei da Sala dos Professores.
+
+27
+00:02:57,320 --> 00:02:58,440
+Tudo bem.
+
+28
+00:02:58,440 --> 00:03:01,240
+Nenhum dos professores desta escola se parece com professores.
+
+29
+00:03:01,700 --> 00:03:02,990
+Com licença!
+
+30
+00:03:03,450 --> 00:03:05,200
+Com licença!
+
+31
+00:03:06,330 --> 00:03:08,750
+Sobre aquele assunto
+ que conversamos ontem...
+
+32
+00:03:09,250 --> 00:03:11,170
+Tudo bem.
+
+33
+00:03:11,170 --> 00:03:14,630
+Então, qual é o nome da aluna?
+
+34
+00:03:15,170 --> 00:03:18,340
+Ah, Yuuki. 
+Konno Yuuki.
+
+35
+00:03:19,420 --> 00:03:23,300
+Konno-san, se você quiser, venha para a aula sempre que sentir vontade.
+
+36
+00:03:23,720 --> 00:03:26,850
+A partir de hoje, começaremos a ler "O Caminhão", de Akutagawa.
+
+37
+00:03:26,850 --> 00:03:29,310
+É bem chato se você não acompanhar até o fim.
+
+38
+00:03:29,770 --> 00:03:32,310
+C-Certo... Obrigada!
+
+39
+00:03:35,440 --> 00:03:36,770
+Com licença.
+
+40
+00:03:58,130 --> 00:04:00,210
+Yuuki-san, isso é...
+
+41
+00:04:00,210 --> 00:04:02,260
+Como você sabe meu nome?
+
+42
+00:04:03,010 --> 00:04:04,050
+Não...
+
+43
+00:04:04,050 --> 00:04:05,390
+É meu sobrenome.
+
+44
+00:04:05,390 --> 00:04:07,180
+Ah, é mesmo! 
+Desculpe, desculpe!
+
+45
+00:04:07,600 --> 00:04:09,600
+Esta é a Konno Yuuki-san.
+
+46
+00:04:09,600 --> 00:04:12,520
+No momento, ela não 
+pode deixar o hospital,
+
+47
+00:04:12,520 --> 00:04:14,900
+por isso decidiu vir às 
+aulas conosco deste jeito.
+
+48
+00:04:15,190 --> 00:04:16,230
+Me chamo Yuuki.
+
+49
+00:04:16,230 --> 00:04:18,360
+Ficarei com vocês por um tempo.
+
+50
+00:04:19,360 --> 00:04:20,070
+Incrível!
+
+51
+00:04:20,070 --> 00:04:21,030
+Prazer em conhecê-la!
+
+52
+00:04:21,030 --> 00:04:22,490
+Prazer. 
+Eu me chamo Kouta.
+
+53
+00:04:22,490 --> 00:04:25,070
+Ah, prazer em conhecê-los.
+Prazer em conhecê-lo também.
+
+54
+00:04:35,080 --> 00:04:36,000
+Levantem-se.
+
+55
+00:04:36,920 --> 00:04:37,710
+Curvem-se.
+
+56
+00:04:38,340 --> 00:04:39,000
+Sentem-se.
+
+57
+00:04:41,420 --> 00:04:46,470
+Bom, a partir de hoje, começaremos na página 97 do livro.
+
+58
+00:04:46,470 --> 00:04:49,390
+"O Caminhão", de Akutagawa Ryuunosuke.
+
+59
+00:04:50,100 --> 00:04:52,520
+Vamos começar lendo.
+
+60
+00:04:53,060 --> 00:04:55,480
+Konno Yuuki-san, você consegue?
+
+61
+00:04:57,360 --> 00:04:58,310
+O quê?!
+
+62
+00:04:58,980 --> 00:05:00,690
+A-Ah...
+
+63
+00:05:01,150 --> 00:05:02,150
+Não consegue?
+
+64
+00:05:02,150 --> 00:05:04,030
+C-Consigo!
+
+65
+00:05:07,910 --> 00:05:10,280
+Yuuki, consegue ler?
+
+66
+00:05:10,280 --> 00:05:11,450
+Claro.
+
+67
+00:05:11,450 --> 00:05:13,700
+Eu estudei bastante sozinha.
+
+68
+00:05:19,880 --> 00:05:24,470
+"A construção de uma linha 
+férrea entre Odawara e Atami
+
+69
+00:05:24,470 --> 00:05:26,510
+começou quando
+ Ryouhei tinha oito anos.
+
+70
+00:05:27,050 --> 00:05:29,510
+Todos os dias, Ryouhei deixava sua vila
+
+71
+00:05:29,510 --> 00:05:31,470
+para observar a construção.
+
+72
+00:05:31,930 --> 00:05:36,520
+Mais especificamente, os caminhões que carregavam a terra.
+
+73
+00:05:37,140 --> 00:05:39,730
+Eram eles que ele queria ver.
+
+74
+00:05:40,480 --> 00:05:45,280
+Dois trabalhadores ficavam na carroceria,
+atrás da montanha de terra.
+
+75
+00:05:45,950 --> 00:05:48,280
+Como o caminhão descia a montanha,
+
+76
+00:05:48,280 --> 00:05:50,240
+não precisava de ajuda para se mover.
+
+77
+00:05:50,740 --> 00:05:53,120
+O chassi tremia com a velocidade,
+
+78
+00:05:53,120 --> 00:05:55,960
+os uniformes dos trabalhadores dançavam com o vento,
+
+79
+00:05:55,960 --> 00:05:57,790
+e a pequena estrada se curvava e se torcia.
+
+80
+00:05:58,290 --> 00:06:01,380
+O Ryouhei sempre os observava,
+
+81
+00:06:01,380 --> 00:06:03,550
+e algumas vezes ele pensava que gostaria de ser um daqueles trabalhadores.
+
+82
+00:06:04,170 --> 00:06:06,550
+Ele ao menos pensava que alguma vez
+
+83
+00:06:06,550 --> 00:06:08,840
+gostaria de andar naquele caminhão com eles."
+
+84
+00:06:14,470 --> 00:06:16,430
+Você é muito boa na leitura, Yuuki-san!
+
+85
+00:06:16,730 --> 00:06:18,770
+Ei, você já deu uma volta pela escola?
+
+86
+00:06:18,770 --> 00:06:20,400
+Nós podemos mostrá-la para você.
+
+87
+00:06:20,400 --> 00:06:21,310
+E-Esperem um pouco...
+
+88
+00:06:21,310 --> 00:06:21,900
+Ei, você gosta de futebol?
+E-Esperem um pouco...
+
+89
+00:06:21,900 --> 00:06:22,730
+Ei, você gosta de futebol?
+
+90
+00:06:24,690 --> 00:06:26,280
+Obrigada, pessoal.
+
+91
+00:06:26,860 --> 00:06:28,700
+Ah, foi divertido.
+
+92
+00:06:28,700 --> 00:06:30,160
+Estou tão feliz.
+
+93
+00:06:30,820 --> 00:06:33,700
+Asuna, muito obrigada por hoje.
+
+94
+00:06:33,700 --> 00:06:35,200
+Foi muito divertido.
+
+95
+00:06:35,750 --> 00:06:38,750
+Jamais vou me esquecer.
+
+96
+00:06:42,420 --> 00:06:44,170
+Do que você está falando?
+
+97
+00:06:44,170 --> 00:06:46,960
+O professor disse que você poderia ir todos os dias.
+
+98
+00:06:47,510 --> 00:06:49,800
+Amanhã a aula de Japonês Moderno será até o terceiro período.
+
+99
+00:06:49,800 --> 00:06:50,970
+Não vá se atrasar.
+
+100
+00:06:52,640 --> 00:06:55,720
+Além disso, tem algum lugar que você gostaria de ver?
+
+101
+00:06:56,180 --> 00:06:58,600
+Bom...
+
+102
+00:06:58,600 --> 00:07:01,770
+Na verdade, tem um lugar.
+
+103
+00:07:01,770 --> 00:07:02,650
+Onde?
+
+104
+00:07:08,900 --> 00:07:11,160
+Esta cidade é tão linda, Yuuki...
+
+105
+00:07:11,160 --> 00:07:13,030
+O céu é tão claro.
+
+106
+00:07:13,570 --> 00:07:16,200
+É mesmo. 
+Desculpe, Asuna.
+
+107
+00:07:16,200 --> 00:07:18,370
+Foi muito egoísmo meu pedir isso.
+
+108
+00:07:18,370 --> 00:07:20,000
+Não tem problema você não ir direto para casa?
+
+109
+00:07:20,250 --> 00:07:21,460
+Sem problemas.
+
+110
+00:07:21,460 --> 00:07:23,330
+Eu mandei uma mensagem.
+
+111
+00:07:23,330 --> 00:07:25,880
+E então, aonde você quer ir, Yuuki?
+
+112
+00:07:25,880 --> 00:07:27,090
+Bom...
+
+113
+00:07:43,730 --> 00:07:46,150
+Tsukimidai é por aqui?
+
+114
+00:07:46,570 --> 00:07:47,230
+Sim.
+
+115
+00:07:47,690 --> 00:07:51,360
+Quando você virar logo à frente,
+pare ao lado da casa branca.
+
+116
+00:07:59,370 --> 00:08:02,500
+Essa é sua casa, não é?
+
+117
+00:08:02,960 --> 00:08:03,790
+Sim.
+
+118
+00:08:04,330 --> 00:08:07,000
+Eu nunca pensei que a veria outra vez.
+
+119
+00:08:08,420 --> 00:08:12,340
+Obrigada por me trazer aqui, Asuna.
+
+120
+00:08:12,970 --> 00:08:14,640
+Quer entrar?
+
+121
+00:08:14,640 --> 00:08:16,600
+Não, aqui já é suficiente.
+
+122
+00:08:17,510 --> 00:08:20,100
+Certo, vamos para casa ou você vai acabar se atrasando.
+
+123
+00:08:20,520 --> 00:08:23,100
+Eu ainda tenho tempo.
+
+124
+00:08:26,060 --> 00:08:30,030
+Eu só morei aqui por menos de um ano.
+
+125
+00:08:30,400 --> 00:08:34,820
+Mas me lembro muito bem de todos os dias.
+
+126
+00:08:35,660 --> 00:08:39,410
+Eu sempre corria naquele jardim com a minha irmã.
+
+127
+00:08:39,410 --> 00:08:43,040
+Nós sempre fazíamos churrasco, e uma vez, eu fiz uma estante com meu pai!
+
+128
+00:08:43,410 --> 00:08:44,500
+Foi tão divertido.
+
+129
+00:08:45,120 --> 00:08:46,250
+Que legal...
+
+130
+00:08:46,540 --> 00:08:49,670
+Mas sabe, vão demolir essa casa.
+
+131
+00:08:50,130 --> 00:08:51,050
+Por quê?
+
+132
+00:08:51,380 --> 00:08:55,180
+Minha avó disse que quer vender ou
+ transformá-la em uma loja de conveniência.
+
+133
+00:08:55,590 --> 00:08:56,840
+Mas...
+
+134
+00:08:56,840 --> 00:09:00,140
+Por isso queria vê-la uma última vez.
+
+135
+00:09:00,140 --> 00:09:02,220
+Então, vamos lá.
+
+136
+00:09:02,980 --> 00:09:04,850
+Você tem 15 anos, não tem?
+
+137
+00:09:05,270 --> 00:09:08,400
+Quando você tiver 16, case com alguém de quem você goste.
+
+138
+00:09:08,900 --> 00:09:12,570
+E assim, poderá proteger 
+essa casa para sempre.
+
+139
+00:09:14,030 --> 00:09:16,360
+Asuna, isso é um pensamento absurdo!
+
+140
+00:09:17,360 --> 00:09:20,580
+Mas é uma pena... Acho que não terei ninguém com quem casar.
+
+141
+00:09:20,580 --> 00:09:22,160
+N-Não?
+
+142
+00:09:22,160 --> 00:09:24,210
+Você estava se dando tão bem com o Jun.
+
+143
+00:09:24,210 --> 00:09:26,870
+Sem chance, ele é muito criança!
+
+144
+00:09:27,880 --> 00:09:29,380
+Vamos ver...
+
+145
+00:09:29,380 --> 00:09:32,800
+Já sei... Quer casar comigo, Asuna?
+
+146
+00:09:33,300 --> 00:09:36,340
+Mas você terá que ser a esposa.
+
+147
+00:09:36,720 --> 00:09:40,510
+Ou então, meu nome seria "Yuuki Yuuki."
+
+148
+00:09:42,470 --> 00:09:44,850
+Mas acho que duas garotas...
+
+149
+00:09:44,850 --> 00:09:46,850
+Desculpe, desculpe. 
+Foi brincadeira.
+
+150
+00:09:46,850 --> 00:09:49,400
+Você já tem alguém importante para você, não tem?
+
+151
+00:09:49,400 --> 00:09:52,070
+Bom... Sim...
+
+152
+00:09:52,070 --> 00:09:53,530
+Você deveria ter cuidado.
+
+153
+00:09:54,150 --> 00:09:58,950
+Eu sinto que ele vive fora da realidade de um jeito diferente do que eu vivo.
+
+154
+00:10:00,950 --> 00:10:02,910
+Muito obrigada, Asuna.
+
+155
+00:10:03,370 --> 00:10:07,870
+Estou muito feliz por poder ter visto essa casa outra vez.
+
+156
+00:10:08,750 --> 00:10:10,880
+Quando eu morava nela,
+
+157
+00:10:11,420 --> 00:10:16,420
+minha mãe sempre dizia algo para mim depois das orações,
+
+158
+00:10:17,680 --> 00:10:23,510
+"Deus nunca nos dá mais sofrimento do que podemos suportar."
+
+159
+00:10:24,640 --> 00:10:27,480
+Mas eu ficava meio desapontada com aquilo.
+
+160
+00:10:27,940 --> 00:10:33,690
+Eu sempre quis ouvir as 
+palavras dela, não da bíblia.
+
+161
+00:10:35,070 --> 00:10:39,110
+Mas depois de ver essa casa outra vez, eu entendo.
+
+162
+00:10:40,110 --> 00:10:41,570
+Não eram apenas palavras.
+
+163
+00:10:41,570 --> 00:10:44,490
+Minha mãe estava me envolvendo com seus sentimentos.
+
+164
+00:10:45,040 --> 00:10:48,830
+Ela estava sempre orando,
+ para que eu pudesse
+
+165
+00:10:48,830 --> 00:10:50,540
+seguir em frente até o fim.
+
+166
+00:10:51,250 --> 00:10:53,130
+Finalmente entendi.
+
+167
+00:10:55,090 --> 00:10:56,090
+Eu...
+
+168
+00:10:56,510 --> 00:10:59,970
+Eu também não fui capaz de ouvir a voz da minha mãe por um tempo.
+
+169
+00:11:01,010 --> 00:11:03,800
+Mesmo quando eu converso com ela, não consigo ouvir sua voz.
+
+170
+00:11:04,600 --> 00:11:06,520
+E ela nunca ouve o que eu estou dizendo.
+
+171
+00:11:07,600 --> 00:11:09,810
+Você disse uma vez
+
+172
+00:11:09,810 --> 00:11:12,560
+que existem coisas que só podemos compartilhar lutando.
+
+173
+00:11:13,190 --> 00:11:15,400
+Como eu posso ser forte como você?
+
+174
+00:11:17,280 --> 00:11:20,400
+Eu não sou forte... Nem um pouco.
+
+175
+00:11:20,400 --> 00:11:21,990
+Isso não é verdade.
+
+176
+00:11:21,990 --> 00:11:27,040
+Você não se assusta, ou não se incomoda, como pessoas como eu fazem.
+
+177
+00:11:27,040 --> 00:11:28,790
+Você nunca faz isso.
+
+178
+00:11:29,330 --> 00:11:30,960
+Você parece tão natural.
+
+179
+00:11:32,370 --> 00:11:33,880
+Mas sabe,
+
+180
+00:11:33,880 --> 00:11:36,380
+quando eu estava no mundo real,
+
+181
+00:11:36,380 --> 00:11:39,260
+eu estava sempre fingindo 
+ser alguém que não era.
+
+182
+00:11:40,170 --> 00:11:42,760
+Eu pensava que precisava 
+sempre estar animada,
+
+183
+00:11:42,760 --> 00:11:45,800
+para que meus pais 
+não se sentissem tristes.
+
+184
+00:11:46,220 --> 00:11:47,350
+Yuuki...
+
+185
+00:11:48,180 --> 00:11:52,600
+Mas acho que não tem problema fingir.
+
+186
+00:11:52,980 --> 00:11:55,810
+Se isso significa passar mais tempo sorrindo,
+
+187
+00:11:55,810 --> 00:11:57,730
+tudo bem.
+
+188
+00:11:58,190 --> 00:12:01,820
+Sabe, eu não tenho muito tempo sobrando.
+
+189
+00:12:01,820 --> 00:12:05,740
+Eu sinto que não tenho tempo para ficar perdendo com certas coisas.
+
+190
+00:12:06,780 --> 00:12:09,540
+Eu sempre digo como me sinto,
+
+191
+00:12:09,540 --> 00:12:12,290
+e se não gostam de mim, tudo bem!
+
+192
+00:12:12,580 --> 00:12:17,210
+Não muda o fato de eu estar próxima ao coração das pessoas.
+
+193
+00:12:17,840 --> 00:12:18,960
+Tem razão.
+
+194
+00:12:19,550 --> 00:12:25,180
+Foi por isso que ficamos tão 
+próximas em apenas alguns dias.
+
+195
+00:12:25,680 --> 00:12:28,060
+Não, não foi por minha causa.
+
+196
+00:12:28,810 --> 00:12:33,100
+Foi porque mesmo eu tentando fugir, você tentou ao máximo me segurar.
+
+197
+00:12:33,940 --> 00:12:38,440
+Então, por que não tenta conversar com sua mãe como fez comigo?
+
+198
+00:12:38,440 --> 00:12:40,530
+Se tentar compartilhar seus sentimentos,
+
+199
+00:12:40,530 --> 00:12:42,570
+acho que pode conseguir.
+
+200
+00:12:44,950 --> 00:12:46,240
+Tudo bem.
+
+201
+00:12:46,240 --> 00:12:48,280
+Você é muito mais forte que eu!
+
+202
+00:12:48,280 --> 00:12:49,080
+É verdade!
+
+203
+00:12:52,250 --> 00:12:53,540
+Yuuki...
+
+204
+00:12:55,540 --> 00:12:58,840
+Você me acertou com tudo que tinha,
+
+205
+00:12:58,840 --> 00:13:03,630
+por isso eu decidi que poderia confiar em você com todas minhas forças!
+
+206
+00:13:04,340 --> 00:13:05,130
+Obrigada.
+
+207
+00:13:05,840 --> 00:13:07,390
+Obrigada, Yuuki...
+
+208
+00:13:24,070 --> 00:13:26,410
+Se tentar compartilhar seus sentimentos,
+
+209
+00:13:26,410 --> 00:13:27,990
+acho que pode conseguir.
+
+210
+00:13:29,580 --> 00:13:30,620
+Tudo bem.
+
+211
+00:13:30,620 --> 00:13:32,290
+Você consegue, Asuna!
+
+212
+00:13:36,620 --> 00:13:37,670
+Entre.
+
+213
+00:13:50,890 --> 00:13:51,930
+Você está atrasada.
+
+214
+00:13:52,560 --> 00:13:53,770
+Desculpe.
+
+215
+00:13:53,770 --> 00:13:55,060
+Se quiser comer alguma coisa,
+
+216
+00:13:55,060 --> 00:13:57,480
+pegue algo da geladeira.
+
+217
+00:13:58,770 --> 00:14:02,690
+Amanhã é o último dia para fazer aquele teste da transferência que eu comentei.
+
+218
+00:14:03,190 --> 00:14:05,030
+Deixe tudo pronto pela manhã.
+
+219
+00:14:05,440 --> 00:14:06,780
+Sobre isso...
+
+220
+00:14:09,410 --> 00:14:11,580
+Eu preciso conversar com você, mãe.
+
+221
+00:14:12,450 --> 00:14:13,450
+Diga.
+
+222
+00:14:13,870 --> 00:14:15,870
+É difícil de explicar aqui.
+
+223
+00:14:15,870 --> 00:14:17,920
+Então, onde você conseguirá explicar?
+
+224
+00:14:22,000 --> 00:14:23,340
+No mundo virtual.
+
+225
+00:14:23,800 --> 00:14:25,210
+Não precisa ser muito tempo,
+
+226
+00:14:25,210 --> 00:14:26,970
+mas eu quero que você
+ vá a um lugar comigo.
+
+227
+00:14:29,130 --> 00:14:30,890
+De jeito nenhum!
+
+228
+00:14:30,890 --> 00:14:35,310
+Não quero ouvir algo que você 
+não é capaz de dizer cara a cara.
+
+229
+00:14:35,310 --> 00:14:36,680
+Por favor, mãe!
+
+230
+00:14:36,680 --> 00:14:38,600
+Tem algo que eu quero 
+muito mostrar a você!
+
+231
+00:14:38,600 --> 00:14:39,940
+Apenas cinco minutos!
+
+232
+00:14:41,440 --> 00:14:42,690
+Por favor.
+
+233
+00:14:42,690 --> 00:14:48,780
+Aqui, eu não consigo dizer o que 
+estou pensando e como me sinto.
+
+234
+00:14:49,240 --> 00:14:50,700
+Apenas uma vez.
+
+235
+00:14:51,030 --> 00:14:53,490
+Eu quero que você veja meu mundo!
+
+236
+00:15:00,460 --> 00:15:01,540
+Apenas cinco minutos.
+
+237
+00:15:03,090 --> 00:15:05,880
+Mas não importa o que você diga,
+
+238
+00:15:05,880 --> 00:15:10,380
+eu não tenho intenção de deixá-la 
+frequentar aquela escola ano que vem.
+
+239
+00:15:10,380 --> 00:15:13,800
+E quando terminar, 
+preencha os documentos.
+
+240
+00:15:14,560 --> 00:15:15,470
+Certo.
+
+241
+00:15:16,140 --> 00:15:17,980
+O que eu faço com isso?
+
+242
+00:15:22,810 --> 00:15:24,820
+Fique em uma posição que consiga relaxar.
+
+243
+00:15:24,820 --> 00:15:28,990
+Assim que eu ligá-lo, ele entrará na minha sub-conta.
+
+244
+00:15:31,360 --> 00:15:34,200
+Quando estiver lá, espere por mim.
+
+245
+00:15:34,200 --> 00:15:35,450
+Eu vou ligar.
+
+246
+00:15:46,460 --> 00:15:47,960
+Iniciar conexão!
+
+247
+00:16:03,730 --> 00:16:05,690
+Isso é bem estranho.
+
+248
+00:16:06,610 --> 00:16:09,570
+Ver um rosto que não seja o meu se mover quando eu me movo.
+
+249
+00:16:10,240 --> 00:16:12,740
+E eu me sinto estranhamente leve.
+
+250
+00:16:12,740 --> 00:16:14,320
+Claro que sim...
+
+251
+00:16:14,320 --> 00:16:17,830
+O peso deste avatar está 
+configurado como 40 quilos.
+
+252
+00:16:18,330 --> 00:16:20,540
+Deve ser bem diferente do seu peso no mundo real.
+
+253
+00:16:20,540 --> 00:16:21,790
+Isso foi rude.
+
+254
+00:16:21,790 --> 00:16:24,210
+Eu não sou tão pesada assim.
+
+255
+00:16:24,960 --> 00:16:28,380
+Falando nisso, você tem a mesma aparência do outro mundo.
+
+256
+00:16:28,380 --> 00:16:29,760
+Ah, sim, acho que sim.
+
+257
+00:16:30,300 --> 00:16:34,220
+Mas a verdadeira parece
+ um pouco mais gordinha.
+
+258
+00:16:34,220 --> 00:16:36,180
+Agora você está sendo rude, mãe!
+
+259
+00:16:36,180 --> 00:16:38,180
+Sou igualzinha na realidade!
+
+260
+00:16:42,310 --> 00:16:44,440
+Você está ficando sem tempo.
+
+261
+00:16:44,440 --> 00:16:45,980
+O que você queria me mostrar?
+
+262
+00:16:45,980 --> 00:16:47,400
+Venha cá.
+
+263
+00:17:17,510 --> 00:17:19,600
+E então? Não acha que é igual?
+
+264
+00:17:19,970 --> 00:17:22,060
+Igual ao quê?
+
+265
+00:17:22,060 --> 00:17:23,980
+São apenas alguns estúpidos cedros—
+
+266
+00:17:26,270 --> 00:17:30,650
+Não a faz se lembrar 
+da casa do vovô e da vovó?
+
+267
+00:17:34,240 --> 00:17:39,780
+Eu adorava a casa deles em Miyagi.
+
+268
+00:18:05,680 --> 00:18:08,520
+Lembra o que aconteceu no Obon quando eu estava na sétima série?
+
+269
+00:18:09,060 --> 00:18:11,320
+Você e o resto da família foram para Quioto,
+
+270
+00:18:11,730 --> 00:18:15,110
+mas eu fui para Miyagi sozinha.
+
+271
+00:18:15,570 --> 00:18:16,740
+Lembro.
+
+272
+00:18:17,200 --> 00:18:20,870
+Aquela vez, eu me desculpei com eles.
+
+273
+00:18:21,490 --> 00:18:24,540
+"Desculpe por minha mãe não poder vir visitar os túmulos."
+
+274
+00:18:24,540 --> 00:18:29,750
+Havia algo que eu precisava fazer com a família.
+
+275
+00:18:30,130 --> 00:18:32,590
+Não, não estou culpando você.
+
+276
+00:18:33,670 --> 00:18:40,390
+O vovô disse que você era o tesouro deles.
+
+277
+00:18:45,220 --> 00:18:48,230
+Você deixou a vila, foi para a escola, se tornou uma universitária,
+
+278
+00:18:48,230 --> 00:18:52,190
+contribuiu com várias revistas, 
+e continuou crescendo mais e mais.
+
+279
+00:18:52,190 --> 00:18:53,940
+Aquilo os deixou muito felizes.
+
+280
+00:18:55,530 --> 00:18:58,070
+Depois daquilo, o vovô disse:
+
+281
+00:18:58,530 --> 00:19:03,910
+"Mas algum dia, sua mãe pode ficar cansada e querer parar."
+
+282
+00:19:04,530 --> 00:19:10,670
+E disse que eles protegeriam as 
+montanhas e aquela casa para sempre,
+
+283
+00:19:11,040 --> 00:19:15,340
+para que se você quisesse um lugar para ir, tivesse um.
+
+284
+00:19:22,010 --> 00:19:27,890
+Agora, eu finalmente consegui 
+entender o que ele estava dizendo.
+
+285
+00:19:28,810 --> 00:19:31,980
+A vida não é apenas fazer
+ coisas para si mesma.
+
+286
+00:19:32,350 --> 00:19:36,360
+É possível viver de um jeito que a felicidade de outras pessoas
+
+287
+00:19:36,360 --> 00:19:38,360
+a faça feliz também.
+
+288
+00:19:40,450 --> 00:19:45,740
+Eu quero viver de um jeito que faça todos aqueles ao meu redor felizes.
+
+289
+00:19:46,200 --> 00:19:49,410
+Eu quero viver de um jeito que eu tenha a possibilidade de ajudar todos ao meu redor
+
+290
+00:19:49,830 --> 00:19:51,500
+quando eles ficarem cansados.
+
+291
+00:19:52,080 --> 00:19:53,330
+E para isso,
+
+292
+00:19:53,920 --> 00:19:56,500
+eu quero continuar me esforçando
+
+293
+00:19:56,500 --> 00:19:58,920
+com os estudos e todas as outras coisas na escola que eu amo!
+
+294
+00:20:22,280 --> 00:20:23,160
+Mãe?
+
+295
+00:20:23,990 --> 00:20:25,870
+Espera, o que é isso?
+
+296
+00:20:26,530 --> 00:20:28,870
+Eu não estou chorando...
+
+297
+00:20:30,080 --> 00:20:31,250
+Mãe...
+
+298
+00:20:32,120 --> 00:20:34,580
+Neste mundo, você não consegue esconder suas lágrimas.
+
+299
+00:20:35,630 --> 00:20:38,460
+Quando você quer chorar,
+ não há como parar.
+
+300
+00:20:40,630 --> 00:20:42,170
+Que mundo inconveniente.
+
+301
+00:21:15,170 --> 00:21:16,540
+Bom dia, mãe.
+
+302
+00:21:16,790 --> 00:21:17,920
+Bom dia.
+
+303
+00:21:21,340 --> 00:21:26,380
+Você está preparada para ajudar alguém pelo resto da sua vida, não está?
+
+304
+00:21:28,600 --> 00:21:33,390
+Mas para fazer isso, você precisa ser forte.
+
+305
+00:21:35,230 --> 00:21:37,270
+Você precisa ir para a universidade.
+
+306
+00:21:37,810 --> 00:21:39,060
+E para isso,
+
+307
+00:21:39,060 --> 00:21:42,440
+você precisa aumentar suas notas do terceiro trimestre e do próximo ano.
+
+308
+00:21:44,280 --> 00:21:45,320
+Mãe...
+
+309
+00:21:45,900 --> 00:21:47,450
+Então, eu não preciso me transferir?
+
+310
+00:21:47,700 --> 00:21:49,160
+Eu já disse...
+
+311
+00:21:49,160 --> 00:21:50,410
+Tudo depende das suas notas.
+
+312
+00:21:53,830 --> 00:21:55,040
+Força.
+
+313
+00:22:00,670 --> 00:22:02,630
+Obrigada, mãe...
+
+314
+00:22:04,050 --> 00:22:06,090
+Obrigada, Yuuki.
+
+315
+00:22:12,720 --> 00:22:13,680
+Já vou indo.
+
